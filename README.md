@@ -10,7 +10,7 @@
 > Built by a developer who actually runs it — not just backtests it.
 
 ---
-<img src="regimelab_ai_brain.png" width="700" alt="RegimeLab AI Brain"/>
+<img src="regimelab_ai_brain.PNG" width="700" alt="RegimeLab AI Brain"/>
 
 ## 🧠 The core idea
 
