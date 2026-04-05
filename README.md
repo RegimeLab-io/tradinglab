@@ -10,7 +10,7 @@
 > Built by a developer who actually runs it — not just backtests it.
 
 ---
-
+<img src="dashboard.png" width="700" alt="RegimeLab Dashboard"/>
 ## 🧠 The core idea
 
 Most trading bots use the same parameters in every market condition. RegimeLab doesn't.
