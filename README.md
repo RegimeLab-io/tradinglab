@@ -10,7 +10,7 @@
 > Built by a developer who actually runs it — not just backtests it.
 
 ---
-<img src="trading-bot AI brain.png" width="700" alt="RegimeLab Dashboard"/>
+<img src="regimeliab_ai_brain.png" width="700" alt="RegimeLab AI Brain"/>
 
 ## 🧠 The core idea
 
